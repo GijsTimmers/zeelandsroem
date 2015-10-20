@@ -13,15 +13,15 @@ To keep track of the progress in sewing four glorious flags.
 ## Sit Rep
 At the moment, I try to sew the following flags:
 
-- [ ] Een mooie dag voor mosselen... van Zeelands Roem natuurlijk!
+- [ ] `Een mooie dag voor mosselen... van Zeelands Roem natuurlijk!`
   - Goal: stitch the words *Een mooie dag voor mosselen*.
   - Progress: tried to sew one line, harder than expected. Broke a sewing machine needle while doing it.
-- [ ] Een mooie dag voor mosselen... van Zeelands Roem natuurlijk!
+- [ ] `Een mooie dag voor mosselen... van Zeelands Roem natuurlijk!`
   - Goal: stitch the words *Een mooie dag voor mosselen*.
   - Progress: Nothing yet.
-- [ ] Roem van Yerseke
+- [ ] `Roem van Yerseke`
   - Goal: stitch the words *Roem van Yerseke*
   - Progress: Nothing yet.
-- [ ] Zeelands Roem (or something... can't remember exactly)
+- [ ] `Zeelands Roem (or something... can't remember exactly)`
   - Goal: yet undefined
   - Progress: Nothing yet.
